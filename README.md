@@ -1,11 +1,11 @@
-### Me chamo Max Gabriel e seja bem vindo ao meu Github 👋
+### My name is Max Gabriel and welcome to my Github 👋
 
 
 
-- 🔭 Hoje estou focado nos estudos;
-- 🌱 Estudando HTML, CSS e Javascript na B7Web;
-- 📫 Contate-me no email: maxgabrieldev@gmail.com;
-- Vamos trabalhar juntos!
+- 🔭 Today I'm focused on studies;
+- 🌱 Study HTML, CSS and Javascript at B7Web;
+- 📫 Contact me: maxgabrieldev@gmail.com;
+- Let's work together!
 <br>
 <div align="center">
   <a href="https://github.com/maxgabrieldev">

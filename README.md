@@ -3,7 +3,7 @@
 
 
 -  Today I'm focused on studies;
--  Study HTML and CSS at B7Web;
+-  Studying HTML and CSS at B7Web;
 -  Contact me: maxgabrieldev@gmail.com;
 - Let's work together!
 <br>

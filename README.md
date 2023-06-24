@@ -2,7 +2,6 @@
 
 
 
--  Today I'm focused on studies;
 -  Contact me: maxgabrieldev@gmail.com;
 - Let's work together!
 <br>
